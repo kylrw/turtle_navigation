@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/kyler/ros2_ws/humble_ws/install/isaac_ros2_messages/include/**",
+        "/home/kyler/ros2_ws/humble_ws/install/custom_message/include/**",
+        "/home/kyler/ros2_ws/install/slam_toolbox/include/**",
+        "/home/kyler/ros2_ws/install/isaac_ros2_messages/include/**",
+        "/home/kyler/ros2_ws/install/custom_message/include/**",
+        "/opt/ros/humble/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

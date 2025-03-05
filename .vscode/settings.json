@@ -1,0 +1,42 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/kyler/ros2_ws/humble_ws/install/isaac_ros_navigation_goal/lib/python3.10/site-packages",
+        "/home/kyler/ros2_ws/humble_ws/install/isaac_ros2_messages/local/lib/python3.10/dist-packages",
+        "/home/kyler/ros2_ws/humble_ws/install/custom_message/local/lib/python3.10/dist-packages",
+        "/home/kyler/ros2_ws/build/turtlebot3_teleop",
+        "/home/kyler/ros2_ws/build/turtlebot3_example",
+        "/home/kyler/ros2_ws/build/my_package",
+        "/home/kyler/ros2_ws/build/multi_robot_nav",
+        "/home/kyler/ros2_ws/build/isaac_ros_navigation_goal",
+        "/home/kyler/ros2_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/kyler/ros2_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/kyler/ros2_ws/install/slam_toolbox/local/lib/python3.10/dist-packages",
+        "/home/kyler/ros2_ws/install/my_package/lib/python3.10/site-packages",
+        "/home/kyler/ros2_ws/install/multi_robot_nav/lib/python3.10/site-packages",
+        "/home/kyler/ros2_ws/install/isaac_ros_navigation_goal/lib/python3.10/site-packages",
+        "/home/kyler/ros2_ws/install/isaac_ros2_messages/local/lib/python3.10/dist-packages",
+        "/home/kyler/ros2_ws/install/custom_message/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/kyler/ros2_ws/humble_ws/install/isaac_ros_navigation_goal/lib/python3.10/site-packages",
+        "/home/kyler/ros2_ws/humble_ws/install/isaac_ros2_messages/local/lib/python3.10/dist-packages",
+        "/home/kyler/ros2_ws/humble_ws/install/custom_message/local/lib/python3.10/dist-packages",
+        "/home/kyler/ros2_ws/build/turtlebot3_teleop",
+        "/home/kyler/ros2_ws/build/turtlebot3_example",
+        "/home/kyler/ros2_ws/build/my_package",
+        "/home/kyler/ros2_ws/build/multi_robot_nav",
+        "/home/kyler/ros2_ws/build/isaac_ros_navigation_goal",
+        "/home/kyler/ros2_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/kyler/ros2_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/kyler/ros2_ws/install/slam_toolbox/local/lib/python3.10/dist-packages",
+        "/home/kyler/ros2_ws/install/my_package/lib/python3.10/site-packages",
+        "/home/kyler/ros2_ws/install/multi_robot_nav/lib/python3.10/site-packages",
+        "/home/kyler/ros2_ws/install/isaac_ros_navigation_goal/lib/python3.10/site-packages",
+        "/home/kyler/ros2_ws/install/isaac_ros2_messages/local/lib/python3.10/dist-packages",
+        "/home/kyler/ros2_ws/install/custom_message/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
